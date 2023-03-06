@@ -1,4 +1,4 @@
-Basic Authentication
+<h2>Basic Authentication</h2>
 What authentication means
 What Base64 is
 How to encode a string in Base64
